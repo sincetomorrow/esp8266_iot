@@ -5,3 +5,9 @@ Written in lua framework, uploaded with Esplorer in esp8266-01. The firmware is 
 Each esp8266-01, features the enduser setup, which makes it easier to connect to the wifi.
 <br/>
 <img src="http://i.giphy.com/xTcnSVNVtD9gMJ81wI.gif"/>
+<br/>
+To do:
+<ul>
+<li>One ESP to act as the UI</li>
+
+</ul
